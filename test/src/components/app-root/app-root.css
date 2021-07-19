@@ -1,0 +1,293 @@
+
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
+div{
+  width:100%;
+}
+
+
+p{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  vertical-align: middle;
+  text-align: center;
+}
+
+ul.a{
+  list-style-type: disc;
+}
+
+li{
+  position:relative;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  top:60px;
+  left:80px;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+.title{
+  position:relative;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 25px;
+  font-weight: 900;
+  top:40px;
+  left:60px;
+  color:#F08080;
+}
+
+.tnum{
+  position: relative;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 25px;
+  font-weight: 900;
+  top:40px;
+  left:60px;
+  color:white;
+  background-color: #F08080;
+}
+
+.header1 {
+  background-image: url("/assets/images/fv.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 800px;
+}
+
+.icon{
+  background-image: url("/assets/images/icon_youtube.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color:	#F5F5F5;
+  height: 150px;
+  font-size:35px;
+  margin: 5% auto;
+}
+.line{
+  position:relative;
+  height:3px;
+  background-color: red;
+  width:1500px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.line1{
+  position:relative;
+  height:3px;
+  background-color: red;
+  width:1000px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.appinfo{
+  background-color: #F08080;
+  width:1000px;
+  height:200px;
+  margin: 5% auto;
+  color:white;
+}
+
+.arrow {
+  position:relative;
+  top:100%;
+  
+  width: 0; 
+  height: 0; 
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  
+  border-top: 20px solid red;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.cal{
+  width:800px;
+  height:600px;
+  margin:8% auto;
+}
+
+.pics{
+  position:relative;
+  left:380px;
+}
+
+.middle2{
+  margin:5% auto;
+}
+
+.middle3{
+  background-color: bisque;
+  width:1500px;
+  height:400px;
+  margin: 5% auto;
+}
+
+.middle4{
+  background-color: bisque;
+  width:1500px;
+  height:150px;
+  margin: 5% auto;
+}
+
+.middle5{
+  background-image: url("/assets/images/study_back.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height:800px;
+}
+
+.middle6{
+  background-color: bisque;
+  width:1000px;
+  height:1600px;
+  margin: 5% auto;
+}
+
+.icon1{
+  background-image: url("/assets/images/icon_study.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color:	#F5F5F5;
+  height: 150px;
+  font-size:35px;
+  margin: 5% auto;
+}
+
+.icon2{
+  background-image: url("/assets/images/icon_program.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color:	#F5F5F5;
+  height: 150px;
+  font-size:35px;
+  margin: 5% auto;
+}
+
+.icon3{
+  background-image: url("/assets/images/icon_form.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color:	#F5F5F5;
+  height: 150px;
+  font-size:35px;
+  margin: 5% auto;
+}
+
+.icon4{
+  background-image: url("/assets/images/icon_faq.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color:	#F5F5F5;
+  height: 150px;
+  font-size:35px;
+}
+
+.icon5{
+  background-image: url("/assets/images/icon_company.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color:	#F5F5F5;
+  height: 150px;
+  font-size:35px;
+  margin:5% auto;
+}
+
+.faq1{
+  background-color: bisque;
+  width:1500px;
+  height:200px;
+  margin: 5% auto;
+  font-size:22px;
+}
+
+.spword{
+  text-decoration: underline 	#F08080;
+  color:	#F08080;
+}
+
+.eqf{
+  position:relative;
+  color:	#F08080;
+  font-weight:bold;
+  left:50px;
+  top:20px;
+}
+
+.eaf{
+  position:relative;
+  font-weight:bold;
+  left:50px;
+  width:1300px;
+}
+
+.fvbtn2{
+  position:relative;
+  display:block;
+  top:50px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.log{
+  position:relative;
+  top:50px;
+  left:350px;
+  width:1000px;
+  height:350px;
+  margin:0.5em;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size:20px;
+  font-weight:bold;
+}
+
+.tb{
+  display:block;
+  width:100%;
+  margin:90px auto;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.examples{
+  position:relative;
+  display:block;
+  left:550px;
+}
+
+.specex{
+  position:relative;
+  display:block;
+  left:645px;
+}
+
+#fvbtn{
+  position: relative;
+  width:700px;
+  top:500px;
+  bottom:50px;
+  left:30px;
+  margin:70px;
+}
+
+#buddy{
+  margin:5% auto;
+  position: absolute
+}
+
+
+#gcal{
+  position:relative;
+  border: 0 ;
+  width:800px;
+  height:600px;
+  margin-left:auto;
+  margin-right:auto;
+}
